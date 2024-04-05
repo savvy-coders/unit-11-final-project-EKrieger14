@@ -1,0 +1,40 @@
+body {
+    background-color: #12343b;
+    margin: 0;
+    align-content: center;
+}
+
+div {
+    color: #ffffffe0;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+header {
+    text-align: center;
+}
+
+Footer {
+    text-align: center;
+    background-color: #c89666;
+    font-weight: 550;
+}
+
+img {
+    border-radius: 25px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 20px;
+}
